@@ -3,7 +3,7 @@
 /**
  * main - print the string in the put function
  *
- * Description: usong the string in the put function
+ * Description: using the string in the put function
  * this prigram prints "Programming is like building a multilingual puzzle
  * Return: 0
  */
